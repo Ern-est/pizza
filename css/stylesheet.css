@@ -20,6 +20,25 @@ img{
     background-color: lime;
 }
 
+.inputBox{
+    padding-bottom: 30px;
+    padding: 1rem;
+    font-size: 30pt;
+    height: 5px;
+    margin-block: 50px;
+    width: 2rem;
+    padding: 2rem;
+    
+}
+
+.inputBoxx{
+    text-align: center;
+    text-decoration-color: orangered;
+    font-size: 72pt;
+
+
+}
+
 
     
 
