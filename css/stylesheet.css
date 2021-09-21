@@ -1,4 +1,4 @@
-.heading{
+H1{
     text-align: center;
 }
 body{
@@ -6,3 +6,26 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+img{
+    height: 300px;
+    width: 300px;
+    padding-bottom: 50px;
+    text-align-last: center;
+}
+
+.cont{
+    text-align: center;
+}
+.container{
+    background-color: lime;
+}
+
+
+    
+
+
+
+
+
+
+
