@@ -1,0 +1,8 @@
+.heading{
+    text-align: center;
+}
+body{
+    background-image: url(../Images/pizzabackgrd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
