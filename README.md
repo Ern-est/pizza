@@ -7,7 +7,7 @@ It will take you to the main landing page.
 ## css,html,bootstrap.
 ## 0726543016
 ### MIT license
-Copyright (c) {2021} **{Ernest Cheruiyot.}**
+Copyright (c) {2021} **{Ernest Cheruiyot Langat.}**
 #Contributors
 Mr.kipchumba.
 
