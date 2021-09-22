@@ -3,6 +3,7 @@
 ## Description.
 The main work of this website is to advertise pizza found within our premises.It also entails the work done in there,prices of pizza,various sizes and toppings and also delivery services.furthermore,its open throughout the day.
 ## click on the link to live site.
+It will take you to the main landing page.
 ## css,html,bootstrap.
 ## 0726543016
 ### MIT license
